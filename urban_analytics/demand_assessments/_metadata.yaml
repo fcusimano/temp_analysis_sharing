@@ -1,0 +1,11 @@
+title-block-banner: false
+format: 
+  html:
+    echo: false
+    output: false
+    page-layout: full
+jupyter: python3
+date-format: "DD/MM/YYYY"
+
+execute:
+  freeze: auto  # re-render only when source changes

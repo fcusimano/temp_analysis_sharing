@@ -1,0 +1,11 @@
+project:
+  title: "Fifteen Urban Analytics"
+  type: website
+  output-dir: docs
+  render:
+    - "*_quarto.ipynb"
+    - "*.qmd"
+
+website:
+  navbar:
+    style: "docked"

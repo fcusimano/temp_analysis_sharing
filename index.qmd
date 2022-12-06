@@ -1,0 +1,19 @@
+---
+title: "Analysis listing"
+listing:
+  contents:
+    - "urban_analytics/demand_assessments/*_quarto.ipynb"
+  type: table
+  fields: [title, categories, date]
+  field-display-names:
+    title: "City"
+    categories: "Country"
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  sort: "file-modified desc"
+page-layout: full
+title-block-banner: false
+date-format: DD/MM/YYYY
+---
+
